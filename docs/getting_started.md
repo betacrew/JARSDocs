@@ -29,5 +29,6 @@ cd app-name
 npm run start-expo
 ```
 
+<br/>
 
-[Let's talk about the JARS project structure](#project_structure){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Let's talk about the JARS project structure](project_structure.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

@@ -20,4 +20,6 @@ JARS has been written with the following goals in mind:
 - Provide commonly needed utilities to speed up development
 {: .fs-6 .fw-300 }
 
-[Get started](#getting_started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<br/>
+
+[Get started](getting_started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

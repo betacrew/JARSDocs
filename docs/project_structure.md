@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Getting Started
-nav_order: 2
+title: Project Structure
+nav_order: 3
 ---
 
 ## Project Structure
