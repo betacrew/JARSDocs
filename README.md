@@ -1,2 +1,3 @@
 # jars
-Just Another React System
+Documentation repository for JARS.
+Please visit https://betacrew.github.io/JARSDocs/

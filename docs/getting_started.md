@@ -4,8 +4,8 @@ title: Getting Started
 nav_order: 2
 ---
 
-## Let's Begin!
-
+# Let's Begin!
+<br />
 To generate the JARS project, run the following command
 {: .fs-6 .fw-300 }
 
@@ -18,6 +18,7 @@ Change the port to your preference by...
 // TODO: Need to add docs to help users change ports
 
 Then use the following to run the web project,
+{: .fs-6 .fw-300 }
 ```bash
 cd app-name
 npm run start-web
