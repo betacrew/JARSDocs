@@ -10,3 +10,17 @@ The JARS project structure is an opinionated one. This is because we want to rem
 
 The project structure is as follows:
 {: .fs-6 .fw-300 }
+
+```
+JARS
+ ├── assets
+ ├── libs
+ ├── native
+ ├── web
+ ├── App.js
+ ├── app.json
+ ├── package.json
+ ├── paths.js
+ └── README.md
+ 
+```
