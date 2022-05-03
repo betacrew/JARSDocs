@@ -15,6 +15,7 @@ The project structure is as follows:
 JARS
  ├── assets
  ├── libs
+ ├── services
  ├── native
  ├── web
  ├── App.js
@@ -24,3 +25,15 @@ JARS
  └── README.md
  
 ```
+
+Let's talk about some of the important folders:
+
+- **assets:** As the name suggests, this is where we store assets for both Web and Native.
+ 
+- **services:** This is where we store files that interact with backend APIs. This folder is at the root of the project structure because we expect both the Web and Mobile app to have the same backend API.
+
+- **libs:** Developers using the JARS framework should use this folder to write libraries that could be used in web, native or even both.
+
+- **web:** This folder contains all React components, business logic and utils that are needed to create the web application. 
+
+- **native:** This folder contains all React Native components, business logic and utils that are needed to create the mobile applications. (iOS and Android)
